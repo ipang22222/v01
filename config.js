@@ -1,8 +1,8 @@
 
 //────────────────────────────────────────────────────────────────────────────────────────                                                                                                                                                                                                                                                                */
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/Cx7geuDidyfDvZ4211ZRgO']
-global.channelYT = ['https://youtube.com/channel/UCPhU6uA_3gUaEvyrFZFgJqg'] 
+global.linkGC = ['https://chat.whatsapp.com/L36iBQCdZFkKMkwSmGVd3n']
+global.channelYT = ['https://youtube.com/channel/UCwqEulawmsGoN0QUkitIfbA'] 
 global.owner = ['6282136031499', '6282136031499', '6282136031499']// Put your number here
 global.mods = [ '6282136031499' ,  '6282136031499' ,  '6282136031499' ] // Want some help?
 global.prems = [] // Premium user has unlimited limit
